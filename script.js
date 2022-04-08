@@ -73,7 +73,6 @@ meals =
 'chicken parmigiana',
 'split pea soup',
 'crockpot chicken and stuffing',
-'cat puke',
 'cafe rioesqe',
 'ravioli',
 'tortelini',
@@ -88,4 +87,11 @@ meals =
 'erepas',
 'ceasar salad',
 'sausage and peppers',
+'tamales',
+'stuffed smoked pork loin',
+'fried rice',
+'quesadillas',
+'beefy mac',
+'sloppy joes',
+'hamburger salad'
 ]
