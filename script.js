@@ -93,5 +93,6 @@ meals =
 'quesadillas',
 'beefy mac',
 'sloppy joes',
-'hamburger salad'
+'hamburger salad',
+'biria tacos'
 ]
